@@ -1,0 +1,12 @@
+# Python virtual environments
+venv/
+
+# Configuration files that might contain sensitive data
+.env
+
+# Mac OS X Finder metadata
+.ds_store
+
+# Misc Files
+wordsapi_sample.json
+10000_common_words.txt
